@@ -1,5 +1,4 @@
 voila
-fastbook
 fastai>=0.0.16
 pillow<7
 packaging
