@@ -1,2 +1,1 @@
-web: voila --port=$PORT --no-browser --enable_nbextensions=True Bears_Viola.ipynb
-voila --debug
+web: voila --port=$PORT --no-browser --enable_nbextensions=True Bears_Viola.ipynb --debug
